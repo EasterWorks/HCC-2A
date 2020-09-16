@@ -1,7 +1,60 @@
 # HCC-2A
 Information and file repository for the Joker Tool Works HCC-2A, [which you can find here.](https://www.thingiverse.com/thing:3712294)
 
-Due to MakerBot's failure to ensure that markdown formatting persists in Thing descriptions, I've moved critical information here.
+Due to MakerBot's failure to ensure that markdown formatting persists in Thing descriptions, I've moved critical information here. *Because I can format things here.*
+
+# Overview
+PLEASE READ THE F.A.Q. SECTION BELOW BEFORE YOU ASK QUESTIONS. I have answered hundreds of questions about this kit, and they're all answered in the five items there.
+
+== DISCLAIMER ==
+
+This is a Carbine Conversion Kit for AIRSOFT TOYS and cannot be modified, manipulated, or converted for use with a firearm. It cannot be modified, manipulated, or 
+converted to discharge firearm ammunition.
+
+This kit was designed for the dimensions of a Tokyo Marui Hi-CAPA 5.1. It will not fit other sizes of Hi-CAPA (4.3, 7.1, etc). It may also have fitment issues with 
+non-TM branded or aftermarket upgraded models. Please read the Print Settings section for details.
+
+==CONCEPT==
+
+The JTW HCC-2A is the evolution of the [Hi-CAPA Carbine Version 1](https://www.thingiverse.com/thing:3555822). The idea of this project is to create an open-source 
+Hi-Capa 5.1-compatible carbine kit for airsoft gas pistols, as there are no open source projects like this elsewhere currently. When I say open source, I MEAN open 
+source – want to print your own? The files are and will forever be COMPLETELY FREE. Want to print some to sell? You’re absolutely allowed to – with 
+personalization/customization/other modifications as well – if you link back to the project's Thingiverse post or this Github repository in your sale listing!
+
+The HCC-2A has been tested for functionality but needs testing out in the field. 
+
+
+# Print Settings
+Printer:
+Creality CR-10 S5 (heavily modified)
+
+Rafts:
+Doesn't Matter
+
+Supports:
+Doesn't Matter
+
+Resolution:
+0.2mm
+
+Infill:
+10%-30% Cubic
+
+Filament_brand:
+Hatchbox
+
+Filament_color:
+Black/Silver
+
+Filament_material:
+PLA
+
+Notes:
+PLEASE print Rail_Slot_Test.stl and Rail_Lock.stl FIRST and ensure they fit properly on your Hi-CAPA! There are many parts to this project, so please watch the 
+assembly guide. This kit requires having a Tokyo Marui or derivative Hi-Capa 5.1 with the accessory rail. It will NOT work without the accessory rail! The entire kit 
+is able to be printed without concern using PLA. If you really want to use a different, stronger material for specific parts, consider printing the Optic Rail, Grip 
+Rail, Action Camera Mount, Charging Handle, and Stock Tang out of PETG or Nylon, as these parts support most of the strain and tension on the kit.
+
 
 # Post-Processing 
 [Click here](https://www.youtube.com/watch?v=l9aYI5CcUUY) for a video describing the assembly process and an overview of the kit.
@@ -15,8 +68,7 @@ Due to MakerBot's failure to ensure that markdown formatting persists in Thing d
 * 8mm M4 Screw x6 
 * AEG M4 Buffer Tube w/Screw and Collar 
 
-
-## Tools you will need: 
+## Tools you will need
 * Screwdriver (Hex, Phillips, or Flat depending on what screws you’re using) 
 * Deburring tool 
 * Sandpaper and Files - Optional (but recommended): 
@@ -29,10 +81,10 @@ I recommend also using a threadlocker compound on all screws. Also, you should g
 Some parts may require sanding/fitting because the exact accuracy of some parts is reliant upon print quality and consistency. 
 
 
-# F.A.Q:
+# F.A.Q
 Q: What kind of Hi-Capa will this fit?
-A: This kit is designed to fit a STANDARD Tokyo Marui Hi-Capa 5.1 with the included accessory rail. It will not accept ANY OTHER Hi-Capa model or brand. I don't have any 
-other Hi-Capa on hand to design an adapted mount for.
+A: This kit is designed to fit a STANDARD Tokyo Marui Hi-Capa 5.1 with the included accessory rail. It will not accept ANY OTHER Hi-Capa model or brand. I don't have 
+any other Hi-Capa on hand to design an adapted mount for.
 
 Q: Can you change something for me?
 A: No. This project is finished and I'm not working on it anymore.
