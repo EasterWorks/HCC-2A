@@ -71,7 +71,9 @@ Rail, Action Camera Mount, Charging Handle, and Stock Tang out of PETG or Nylon,
 ## Tools you will need
 * Screwdriver (Hex, Phillips, or Flat depending on what screws you’re using) 
 * Deburring tool 
-* Sandpaper and Files - Optional (but recommended): 
+* Sandpaper and Files 
+
+Optional (but recommended): 
 * PLA-compatible adhesive 
 * Thread Locker Compound 
 * 125-150% Recoil Spring - Optional (Depends on your Hi-Capa setup. If it's stock, use a stronger recoil spring.)
@@ -90,8 +92,7 @@ Q: Can you change something for me?\
 A: No. This project is finished and I'm not working on it anymore.
 
 Q: Can I have the original files so I can edit them in Autodesk family software?\
-A: The best I can do is provide .OBJ's of the original files, which can be imported into Autodesk. [You can download them here.](https://drive.google.com/drive
-/folders/1xr46nHo7fCHXDQukNqw2PCJGJ-KtgVul?usp=sharing) I don't use Autodesk software for 3D design purposes, so I can't help you beyond that.
+A: The best I can do is provide .OBJ's of the original files, which can be imported into Autodesk. [You can download them here.](https://drive.google.com/drive/folders/1xr46nHo7fCHXDQukNqw2PCJGJ-KtgVul?usp=sharing) I don't use Autodesk software for 3D design purposes, so I can't help you beyond that.
 
 Q: Can I print the kit and sell it on websites such as eBay, Etsy, etc?\
 A: Yes. The project is licensed under the Creative Commons - Attributions license. This means 
